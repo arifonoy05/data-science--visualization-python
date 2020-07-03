@@ -11,3 +11,5 @@ https://numpy.org/
 https://pandas.pydata.org/
 https://pypi.org/project/pydeck/
 https://plotly.com/
+
+once you have all, open terminal/cmd on the project directory, and type the following: streamlit run app.py
